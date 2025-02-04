@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Hola esto es una prueba
+cambiamos el texto
